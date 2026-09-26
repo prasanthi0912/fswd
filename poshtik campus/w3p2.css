@@ -1,0 +1,18 @@
+form {
+    background-color: mintcream;
+    border: 2px solid seagreen;
+    padding: 16px;
+    width: 480px;
+}
+
+legend {
+    color: seagreen;
+    font-weight: 600;
+}
+
+#submit {
+    background-color: seagreen;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+}
